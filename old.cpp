@@ -1,3 +1,4 @@
+/*
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
@@ -32,7 +33,7 @@ void render(sf::RenderWindow& window)
 	window.draw(invader);
 }
 
-int main()
+int mainfffff()
 {
 	sf::RenderWindow window(sf::VideoMode({ gameWidth,gameHeight }), "Space_Invaders");
 	init();
@@ -51,4 +52,5 @@ int main()
 
 	return 0;
 }
+*/
 
