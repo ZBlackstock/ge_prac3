@@ -8,7 +8,11 @@ std::vector<std::shared_ptr<Ship>> GameSystem::ships;
 int main();
 
 void GameSystem::init() {
+
+
 	std::shared_ptr<Invader> inv = std::make_shared<Invader>(sf::IntRect(sf::Vector2i(0, 0), sf::Vector2i(32, 32)), sf::Vector2f{ 100,100 });
+
+
 	GameSystem::ships.push_back(inv);
 }
 

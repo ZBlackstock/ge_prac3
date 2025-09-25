@@ -122,3 +122,16 @@
 10408	11365	7805259570914639	bin/space_invaders.exe	e2dcc5e35bed1983
 11350	11772	7805259584311367	bin/sfml-audio-d-2.dll	74d63e3952450980
 11350	11772	7805259584311367	lib/SFML/lib/sfml-audio-d.lib	74d63e3952450980
+93	1070	7805263870560222	CMakeFiles/space_invaders.dir/game_system.cpp.obj	6da18fad8000b968
+1071	1522	7805263880353987	bin/space_invaders.exe	e2dcc5e35bed1983
+90	1082	7805265901500871	CMakeFiles/space_invaders.dir/game_system.cpp.obj	6da18fad8000b968
+1083	1394	7805265911451326	bin/space_invaders.exe	e2dcc5e35bed1983
+101	1131	7805266686050942	CMakeFiles/space_invaders.dir/game_system.cpp.obj	6da18fad8000b968
+1132	1437	7805266696346700	bin/space_invaders.exe	e2dcc5e35bed1983
+94	1079	7805268911921141	CMakeFiles/space_invaders.dir/game_system.cpp.obj	6da18fad8000b968
+1081	1394	7805268921832812	bin/space_invaders.exe	e2dcc5e35bed1983
+91	1124	7805271125532886	CMakeFiles/space_invaders.dir/game_system.cpp.obj	6da18fad8000b968
+1125	1440	7805271135690088	bin/space_invaders.exe	e2dcc5e35bed1983
+114	1214	7805274622464502	CMakeFiles/space_invaders.dir/ship.cpp.obj	937aba428bee56a6
+93	1262	7805274622254018	CMakeFiles/space_invaders.dir/game_system.cpp.obj	6da18fad8000b968
+1263	1632	7805274633878159	bin/space_invaders.exe	e2dcc5e35bed1983

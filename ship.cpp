@@ -7,7 +7,12 @@ Ship::Ship(const Ship &s) :
 
 Ship::Ship(sf::IntRect ir) : Sprite() {
 
+
+
+	// Load sprite from spritesheet
+
 	_sprite = ir;
+	spritesheet.loadFromFile("invaders_sheet.png");
 	setTexture(spritesheet);
 	setTextureRect(_sprite);
 }
